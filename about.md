@@ -5,8 +5,17 @@ menu: true
 order: 10
 ---
 
-## test
+## About Wonyi Jang
+### Career
 
-test-wh
-* asd
-* asd
+- Will receive the B.S. degrees, in Computer Science Engineering from Seoul National University, Seoul, Korea, in 2021
+
+### Interest
+- **Game**
+- **Classification**
+    - Data augmentation
+   
+### Repositoy
+- [https://github.com/jammythedreamer/thesis](https://github.com/jammythedreamer/thesis)
+
+
