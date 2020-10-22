@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "자료구조(1) - 배열과 리스트"
+subtitle:   "Date Structure - array & list"
+categories: knowledge
+tags: CS datastructure
+comments: true
+---
+
+## 개요
+>`자료구조(data structure)`란 무엇인가 정의하고 `배열(array)`과 `리스트(list)`에 대해 알아본다.
+
+- 목차
+    - [자료구조란?](http://localhost:4000/knowledge/2020/10/23/knowledge-data_structure1/#자료구조란)
+    - [배열(array)](http://localhost:4000/knowledge/2020/10/23/knowledge-data_structure1/#배열)
+    - [리스트(list)](http://localhost:4000/knowledge/2020/10/23/knowledge-data_structure1/#리스트)
+
+___
+## 자료구조란?
+___
+## 배열
+___
+## 리스트
+___
+## < 자료구조 >
+- [자료구조(1) - 배열과 리스트](http://localhost:4000/knowledge/2020/10/23/knowledge-data_structure1/ "(1)")
+- [자료구조(2) - 스택과 큐](http://localhost:4000/knowledge/2020/10/23/knowledge-data_structure2/ "(2)")

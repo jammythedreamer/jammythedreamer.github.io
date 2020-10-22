@@ -8,4 +8,4 @@ comments: true
 #header-img: img/review/2019-04-02-review-book-hyperledger-fabric-2-Cover.png
 ---
 
-[https://arxiv.org/pdf/1710.09412.pdf](https://arxiv.org/pdf/1710.09412.pdf)
+[논문](https://arxiv.org/pdf/1710.09412.pdf "https://arxiv.org/pdf/1710.09412.pdf")
