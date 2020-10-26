@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
 title: Paper
-slug: paper
+slug: Paper
 category: review
 menu: false
-order: 1
+order: 2
 ---

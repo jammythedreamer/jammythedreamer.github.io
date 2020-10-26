@@ -12,6 +12,7 @@ order: 10
 
 ### Interest
 - **Game**
+- **Game AI**
 - **Classification**
     - Data augmentation
    
