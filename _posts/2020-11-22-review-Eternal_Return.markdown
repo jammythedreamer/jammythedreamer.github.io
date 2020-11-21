@@ -21,7 +21,7 @@ comments: true
 
 # Play until Now
 
-![전적](https://jammythedreamer.github.io/tree/master/assets/img/post_img/2020-11-22-review-Eternal_Return@1.png)
+![전적](https://jammythedreamer.github.io/assets/img/post_img/2020-11-22-review-Eternal_Return@1.png)
 
 솔로로만 했으며 플레이타임은 10시간 정도다. 캐릭터 별로 특징이 뚜렷하기 때문에 일단 한 캐릭터만 플레이해보았다.
 `시셀라`라는 캐릭터를 해보았는데, 유리대포라는 별명에 걸맞게 딜은 강력하지만 체력 및 방어력이 떨어진다.
